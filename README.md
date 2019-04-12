@@ -78,7 +78,7 @@ shouldTint).show();
 
 **Please click the image below to enlarge.**
 
-<img src="https://raw.githubusercontent.com/GrenderG/Toastly/master/art/collage.png">
+<img src="https://raw.githubusercontent.com/GrenderG/Toasty/master/art/collage.png">
 
 ## Third Party Bindings
 
